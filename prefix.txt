@@ -1,0 +1,3 @@
+`!set-prefix` **set-prefix** __Usage__: *!set-prefix <the new prefix>*
+`!prefix` **check's server prefix prefix** __Usage__: *!prefix*
+`resetprefix` __with not prefix!__ **reset the prefix prefix** __Usage__: *resetprefix*

@@ -1,0 +1,7 @@
+`!rank` **check your rank in all the servers** __Usage__: *!rank <@user>*
+`!boobs` **random boob(only NSFW room)** __Usage__: *!boobs*
+`!howgay` **check your gay level** __Usage__: *!howgay <@user*
+`!meme` **random meme** __Usage__: *!meme*
+`!mhelp` **all the music commands** __Usage__: *!mhelp*
+`!fake` **create webhook** __Usage__: *!fake <@USER> <what to say>
+`!joke` **random joke** __Usage__: *!joke*

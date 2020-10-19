@@ -1,0 +1,5 @@
+`!mute` **Mutes a user** __Usage__: *!mute <@user> <time>*
+`!kick` **Kicks a user from the server** __Usage__: *!kick <@user> <reason>*
+`!ban` **Bans a user from the server** __Usage__: *!ban <@user> <reason>*
+`!clear` **Clears the chat** __Usage__: *!clear <amount>*
+`!eval` **eval** __Usage__: *!eval <what to eval>*

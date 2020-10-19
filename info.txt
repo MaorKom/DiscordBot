@@ -1,0 +1,6 @@
+`!invite` **Gives you invite for the bot** __Usage__: *!invite*
+`!avatar` **Gives you someone's avatar** __Usage__: *!avatar [@user]*
+`!userinfo` **Gives you the user info** __Usage__: *!userinfo [@user]*
+`!serverinfo` **Gives you the server info** __Usage__: *!serverinfo*
+`!uptime` **Gives you the bot uptime** __Usage__: **!uptime**
+`!botinfo` **Gives you the bot info** __Usage__: *!botinfo*
